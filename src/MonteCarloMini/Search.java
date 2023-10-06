@@ -1,9 +1,5 @@
 package MonteCarloMini;
 
-/* M. Kuttel 2023
- * Searcher class that lands somewhere random on the surfaces and 
- * then moves downhill, stopping at the local minimum.
- */
 
 public class Search {
 	private int id;				// Searcher identifier
